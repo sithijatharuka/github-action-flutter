@@ -103,7 +103,7 @@ class _MyHomePageState extends State<MyHomePage> {
               style: Theme.of(context).textTheme.headline4,
             ),
             Text(
-              '20',
+              '1',
               style: Theme.of(context).textTheme.headline4,
             ),
           ],
